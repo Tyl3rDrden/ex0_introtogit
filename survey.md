@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
+Favorite color: Blue
+Favorite food:  Steak
 Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite movie: Fight Club
+Requested grade in the course: Over 9000
